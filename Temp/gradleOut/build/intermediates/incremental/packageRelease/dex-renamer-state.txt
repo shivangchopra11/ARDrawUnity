@@ -1,0 +1,4 @@
+#Sun Aug 26 04:58:20 IST 2018
+base.0=/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

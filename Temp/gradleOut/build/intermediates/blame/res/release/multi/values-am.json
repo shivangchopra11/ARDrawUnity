@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 190,
+                        "endColumn": 43,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 49,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 234,
+                        "endColumn": 45,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 88,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 280,
+                        "endColumn": 84,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 89,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 365,
+                        "endColumn": 85,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 64,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 451,
+                        "endColumn": 60,
+                        "endOffset": 511
+                    }
+                }
+            }
+        ]
+    }
+]

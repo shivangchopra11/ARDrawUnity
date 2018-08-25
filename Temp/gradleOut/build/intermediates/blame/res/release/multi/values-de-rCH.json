@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de-rCH/values-de-rCH.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-de-rCH/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 194,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 52,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-de-rCH/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 48,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 117,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-de-rCH/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 293,
+                        "endColumn": 113,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 120,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-de-rCH/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 407,
+                        "endColumn": 116,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 72,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-de-rCH/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 524,
+                        "endColumn": 68,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

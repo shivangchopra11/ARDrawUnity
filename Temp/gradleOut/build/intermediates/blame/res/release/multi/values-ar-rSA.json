@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar-rSA/values-ar-rSA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-ar-rSA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 194,
+                        "endColumn": 45,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 52,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-ar-rSA/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 240,
+                        "endColumn": 48,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 88,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-ar-rSA/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 84,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 91,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-ar-rSA/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 374,
+                        "endColumn": 87,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 66,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/res/values-ar-rSA/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 462,
+                        "endColumn": 62,
+                        "endOffset": 524
+                    }
+                }
+            }
+        ]
+    }
+]

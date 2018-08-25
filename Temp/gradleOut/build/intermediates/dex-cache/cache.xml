@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shivang/.android/build-cache/64378d1b3a121192fd33ecde29bfc1265c254009/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c6708d52cbc1c71eec3f91a2cf8fec59592c6350">
+        <dex dex="/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_e41a37c3ccf7428193ad034079e00a9439136c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivang/.android/build-cache/463b91e75b0fc48a83bf51f7ab51b702cec63ec5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f08e86de7ca747abc1fbf9d4ee618ee1e8cdd32b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivang/ARDraw101/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db401f4021204ed29e821e60c9f18d97be57ff54">
+        <dex dex="/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_177251454ac1436c90d923186723d7deab92668e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivang/.android/build-cache/463b91e75b0fc48a83bf51f7ab51b702cec63ec5/output/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
+        <dex dex="/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/pre-dexed/release/tango_java_lib_d6f9f30dc715923de9356404a9c95afcf8ff4092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shivang/.android/build-cache/a5848e9144379dea680be58b4ad03ce8851c822c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/Users/shivang/ARDraw101/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f62a32b124b25f937727ec1150f1bfb72313e504.jar" />
+    </item>
+
+</items>
